@@ -1,2 +1,2 @@
-# moj-drugi-projekat
-Ovo je moj drugi projekat
+# Ovo je moj drugi projekat u GitHubu
+Ovaj projekat je nastao pre izvesnog vremena za potrebu backupovanja slika u odstampanom obliku. Cilj je da se vise slika odstampa na jednoj strani papira u manjem formatu i sa visokom rezolucijom, da bi se nakon stampanja na nekom stampacu visoke rezolucije i zumiranja zeljene slike rekonstruisao zeljeni(eventualno tekstualni) sadrzaj slike. Slike su poredjane u resetku sa 8 redova i 7 kolona, sa praznim delom iznad mreze kako bi se upisali opsti podaci o slikama. Kod je kreiran pomocu upita na googlu i sajtu Quora da bi se zadovoljile potrebe za ovakvim nacinom organizovanja slika. Rezultujuca slika output_image.jpg se nalazi u folderu input_folder, iz kog se uzima kao input 56 slika koje formiraju resetku 8x7. Naredni koraci bi ukljucivali izdvajanje teksta iz slika pomocu OCRa, kao i kreiranja qr kodova slika u pomenutom folderu.
